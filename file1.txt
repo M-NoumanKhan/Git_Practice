@@ -1,3 +1,3 @@
 Hello I am file 1
 I am file1 but in new-features branch(dropdown)
-it is sohowing dropdown instead of button
+it is showing dropdown instead of button
